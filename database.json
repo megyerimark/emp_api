@@ -1,0 +1,14 @@
+{
+    "employees":[
+        {"id":1,"name":"Füty imre","city":"Gyula" ,"gender":"férfi"},
+        {"id":2,"name":"Tangó Irma","city":"Szeded","gender":"nő"},
+        {"id":3,"name":"Nevet Elek","city":"Budapest","gender":"férfi"},
+        {"id":4,"name":"Pelikán Ildikó","city":"Szelevény","gender":"nő"},
+        {"id":5,"name":"Csipkerózsika","city":"Almáskamarás","gender":"nő"},
+        {"id":6,"name":"Hófehérke","city":"London","gender":"nő"},
+        {"id":7,"name":"DaVinci","city":"Párizs","gender":"férfi"},
+        {"id":8,"name":"Bio Bátor","city":"Milánó","gender":"férfi"},
+        {"id":9,"name":"Kovács Dorina Angelika","city":"Szicília","gender":"egyéb"},
+        {"id":10,"name":"Varga János","city":"Róma","gender":"egyéb"}
+    ]
+}
